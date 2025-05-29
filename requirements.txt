@@ -1,0 +1,25 @@
+# Web 框架
+Flask==2.3.3
+Werkzeug==2.3.7
+
+# 图像处理
+opencv-python==4.8.0.76
+dlib==19.24.2
+Pillow==10.0.0
+numpy==1.24.3
+
+# 深度学习
+tensorflow==2.13.0
+h5py==3.9.0
+
+# 科学计算
+scipy==1.11.2
+
+# 工具包
+python-dotenv==1.0.0
+requests==2.31.0
+
+# 开发工具
+pytest==7.4.0
+black==23.7.0
+flake8==6.1.0
